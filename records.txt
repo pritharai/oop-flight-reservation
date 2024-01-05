@@ -1,0 +1,10 @@
+_____________XYZ Airlines____________
+______________Ticket_________________
+_____________________________________
+Customer ID:1023
+Customer Name:Pritha
+Customer Gender:Female
+	Description
+
+Destination		Dubai
+Flight cost :		9000
